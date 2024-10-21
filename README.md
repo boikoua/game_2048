@@ -27,7 +27,7 @@ Developed a JavaScript browser-based version of the game 2048. The game incorpor
 5. Run the project. To do this, enter the `npm start` command.
    After that the project will be available to you at `http://localhost:3000`.
 
-## View project and design
+## View project
 
 > Link to the project
 > [DEMO LINK](https://boikoua.github.io/game_2048/).
